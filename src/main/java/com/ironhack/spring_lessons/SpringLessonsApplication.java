@@ -6,6 +6,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class SpringLessonsApplication {
 
+//	Week 3 day 2
+
 	public static void main(String[] args) {
 		SpringApplication.run(SpringLessonsApplication.class, args);
 	}
