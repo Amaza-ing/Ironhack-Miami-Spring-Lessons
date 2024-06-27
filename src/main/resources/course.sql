@@ -19,6 +19,12 @@ CREATE TABLE course (
 );
 
 
+
+
+
+
+
+
 INSERT INTO teacher (teacher) VALUES
 ('Alberto García'),
 ('Beatriz López'),
